@@ -1,4 +1,4 @@
-/* *{
+*{
     margin: 0;
     padding: 0;
     font-family: sans-serif;
@@ -24,8 +24,8 @@
     font-size: 34px;
     font-family: 'Hind', sans-serif;
     
-    /* position: relative;
-    left: -350px; */
+     position: relative;
+    left: -350px;
 }
 
 .navbar{
@@ -231,4 +231,4 @@ h1{
 
 
 
- */
+ 
